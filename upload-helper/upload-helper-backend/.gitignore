@@ -1,0 +1,16 @@
+.idea
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Logs and local environment files
+*.log
+.env
